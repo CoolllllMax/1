@@ -1,8 +1,11 @@
 #include <stdio.h>
 int main()
 {
-	printf("test\n");
-	printf("test\n");
+	printf("testing\n");
+
+
+	printf("tesingggggggg\n");
+	printf("ttttttttttttttttt\n");
 
 	return 0;
 }
